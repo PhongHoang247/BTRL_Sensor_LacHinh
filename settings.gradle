@@ -1,0 +1,2 @@
+rootProject.name='BTRL_Sensor_LacHinh'
+include ':app'
